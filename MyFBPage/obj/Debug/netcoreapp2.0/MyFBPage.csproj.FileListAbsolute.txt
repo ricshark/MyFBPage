@@ -1,0 +1,12 @@
+C:\Users\ricsh\source\repos\MyFBPage\MyFBPage\bin\Debug\netcoreapp2.0\MyFBPage.deps.json
+C:\Users\ricsh\source\repos\MyFBPage\MyFBPage\bin\Debug\netcoreapp2.0\MyFBPage.runtimeconfig.json
+C:\Users\ricsh\source\repos\MyFBPage\MyFBPage\bin\Debug\netcoreapp2.0\MyFBPage.runtimeconfig.dev.json
+C:\Users\ricsh\source\repos\MyFBPage\MyFBPage\bin\Debug\netcoreapp2.0\MyFBPage.dll
+C:\Users\ricsh\source\repos\MyFBPage\MyFBPage\bin\Debug\netcoreapp2.0\MyFBPage.pdb
+C:\Users\ricsh\source\repos\MyFBPage\MyFBPage\obj\Debug\netcoreapp2.0\MyFBPage.csprojResolveAssemblyReference.cache
+C:\Users\ricsh\source\repos\MyFBPage\MyFBPage\obj\Debug\netcoreapp2.0\MyFBPage.csproj.CoreCompileInputs.cache
+C:\Users\ricsh\source\repos\MyFBPage\MyFBPage\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\ricsh\source\repos\MyFBPage\MyFBPage\obj\Debug\netcoreapp2.0\MyFBPage.AssemblyInfoInputs.cache
+C:\Users\ricsh\source\repos\MyFBPage\MyFBPage\obj\Debug\netcoreapp2.0\MyFBPage.AssemblyInfo.cs
+C:\Users\ricsh\source\repos\MyFBPage\MyFBPage\obj\Debug\netcoreapp2.0\MyFBPage.dll
+C:\Users\ricsh\source\repos\MyFBPage\MyFBPage\obj\Debug\netcoreapp2.0\MyFBPage.pdb
